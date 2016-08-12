@@ -10,6 +10,7 @@ import java.awt.*;
  */
 
 public class VanillaTab extends JPanel {
+
 	public VanillaTab(){
 		super(new MigLayout());
 

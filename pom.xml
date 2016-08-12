@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.justramon.mcsrvgrab</groupId>
-    <artifactId>Minecraft Server Grabber</artifactId>
+    <artifactId>McSrvGrabber</artifactId>
     <version>1.0</version>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.miglayout/miglayout-swing -->
